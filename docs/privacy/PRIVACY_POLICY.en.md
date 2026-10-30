@@ -1,35 +1,43 @@
 # Picora Privacy Policy
 
-**Effective date: October 13, 2026**
+Updated: October 31, 2026
 
-Picora is a photo and video review app. This policy explains what the app reads, what it keeps on your device, and when information may leave your device. The publisher of Picora is **Jinjia Zheng**. For privacy questions, contact **mars121377@gmail.com**.
+Effective date: October 31, 2026
 
-## Photos access and processing
+Picora (轻选) is provided by Jinjia Zheng to help you organize photos and videos.
 
-Picora requests access to your Photos library so you can review photos and videos, compare suggestions, organize items, and make changes you choose. You can grant full or limited access through iOS. The app uses Apple's PhotoKit and Vision frameworks to examine the photos you allow it to access. Its suggestion analysis, including image comparison and screenshot text recognition, runs on your device. Suggestions are advisory; the app does not automatically delete photos or videos.
+## Processing on your device
 
-We do not collect data from Picora through the app. The app does not upload your photo or video content, recognized screenshot text, or on-device analysis results to a server operated by us. It does not use an advertising or third-party analytics SDK, and it does not track you across apps or websites.
+**All photo recognition, comparison, and organizing suggestions in Picora are carried out by algorithms on your device. Photos, videos, recognized content, analysis results, and review records are not uploaded to the developer. The developer cannot view your library or read this local data.**
 
-## Information stored on your device
+This data is used only to provide photo organizing features, not for advertising, user profiling, or training AI models. Picora has no account system and does not integrate advertising or third-party behavioral analytics tools.
 
-To make review sessions resumable, Picora stores review decisions, pending changes, settings, counts, and limited information about the photos involved, such as Photos library identifiers and dates. It also stores a regenerable analysis cache that can contain image feature data, similarity and quality scores, resource hashes, and screenshot classifications. Recognized screenshot text is used to classify a screenshot and is not saved as a transcript in the analysis cache. The app may temporarily create a local copy of a media file when you share it or convert a Live Photo.
+## Your control
 
-This information stays in the app's local storage unless you choose to share media or your device's own backup settings include app data. It is used to provide the app's features and is not used for advertising.
+Picora accesses only photos you authorize. You can allow access to selected photos and change or revoke permission in iOS Settings at any time. Some library actions require full Photos access.
 
-## iCloud Photos, sharing, and library changes
+Automatic analysis runs on your device, including during background time allowed by iOS. You can turn it off in Settings. Suggestions do not delete photos automatically; actual deletion requires your confirmation.
 
-If you use iCloud Photos, Apple's Photos service may download a preview or original media file when you view, play, share, inspect, or convert an item. Automatic download of full-quality photos while browsing is off by default and can be changed in Picora's settings. Suggestion scans do not request iCloud originals. iCloud Photos and device backups are Apple services subject to your Apple settings and Apple's privacy practices; Picora does not operate those services.
+Analysis caches, review records, and settings are stored locally so you can continue using the app. You can clear suggestion analysis data in Settings and reset ordering history on the Suggestions page. Clearing analysis data keeps review decisions and pending items; revoking Photos permission does not automatically delete existing records either. Choosing Delete App in iOS removes local app data. Photos in the system library remain under your control.
 
-When you tap Share, Picora prepares the selected item and opens the iOS share sheet. The destination you choose may receive that item under its own privacy terms. Picora does not select a sharing destination for you.
+## System services and feedback
 
-Deleting, favoriting, or assigning items to an existing album is applied to the Photos library through PhotoKit after you confirm the relevant pending actions. Creating a new album or converting a Live Photo can update the Photos library when you choose that action. A converted still is checked before the original is queued for deletion. If you use iCloud Photos or a shared library, changes to Photos may sync to other devices or participants. Apple's Recently Deleted behavior and recovery period are controlled by Photos, not Picora.
+If you use iCloud Photos, Apple handles photo downloads, synchronization, and backups according to your settings. This does not give the developer access to your library. Sharing uses the system share sheet, and you choose both the content and the recipient.
 
-## Your choices and deletion
+Support emails or feedback you choose to send are used only to reply and troubleshoot. We keep them only as long as needed to handle the matter and meet legal obligations, and you can contact us to request deletion. When you use the App Store version, Apple may provide diagnostic reports according to your analytics-sharing settings. If you participate in TestFlight testing, Apple automatically provides crash and test-use information under its rules. We use these materials only for testing and troubleshooting.
 
-You can limit or revoke Photos access in iOS Settings at any time. Revoking access stops further access to those photos; it does not by itself remove review records already saved in Picora's local storage. In Picora's settings, you can pause automatic suggestion analysis and clear the saved suggestion analysis data. This clear action does not erase your review decisions or pending changes. You can change or undo review decisions in the app. Deleting the app removes its local app data from the device, subject to any backups managed by iOS.
+The policy webpage is hosted by GitHub Pages. GitHub records visitors' IP addresses for security purposes; the webpage link does not contain your library content.
 
-Picora has no account or developer-operated cloud storage, so there is no account data held on our servers to request for deletion. For questions about this policy, use the contact address above.
+## Contact and updates
 
-## Changes to this policy
+Minors should use Picora with guidance from a parent or guardian. Their photos receive the same on-device processing protections.
 
-We may update this policy if the app's features or data practices change. The effective date above will be updated, and the current policy will be available from the app's privacy policy link and its App Store listing.
+If our information-processing practices change, we will update this policy and explain significant changes. Where consent is required by law, we will obtain it before the relevant processing begins.
+
+Provider and privacy contact: Jinjia Zheng
+
+Contact email: [mars121377@gmail.com](mailto:mars121377@gmail.com)
+
+You can email us with privacy questions or requests to access, correct, or delete information you have submitted to us. We will respond within the time required by applicable law.
+
+[中文版](PRIVACY_POLICY.zh-CN.html) · [Apple Privacy Policy](https://www.apple.com/legal/privacy/) · [TestFlight and privacy](https://www.apple.com/legal/privacy/data/en/test-flight/) · [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
