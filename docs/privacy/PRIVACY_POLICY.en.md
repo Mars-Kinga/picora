@@ -1,6 +1,6 @@
 # Picora Privacy Policy
 
-Updated: October 31, 2026
+Updated: November 3, 2026
 
 Effective date: October 31, 2026
 
@@ -14,11 +14,11 @@ This data is used only to provide photo organizing features, not for advertising
 
 ## Your control
 
-Picora accesses only photos you authorize. You can allow access to selected photos and change or revoke permission in iOS Settings at any time. Some library actions require full Photos access.
+Picora accesses only photos you authorize. You can allow access to selected photos and change or revoke permission in iOS or iPadOS Settings at any time. Some library actions require full Photos access.
 
-Automatic analysis runs on your device, including during background time allowed by iOS. You can turn it off in Settings. Suggestions do not delete photos automatically; actual deletion requires your confirmation.
+Automatic analysis runs on your device, including during background time allowed by iOS or iPadOS. You can turn it off in Settings. Suggestions do not delete photos automatically; actual deletion requires your confirmation.
 
-Analysis caches, review records, and settings are stored locally so you can continue using the app. You can clear suggestion analysis data in Settings and reset ordering history on the Suggestions page. Clearing analysis data keeps review decisions and pending items; revoking Photos permission does not automatically delete existing records either. Choosing Delete App in iOS removes local app data. Photos in the system library remain under your control.
+Analysis caches, review records, and settings are stored locally so you can continue using the app. You can clear suggestion analysis data in Settings and reset ordering history on the Suggestions page. Clearing analysis data keeps review decisions and pending items; revoking Photos permission does not automatically delete existing records either. Choosing Delete App in iOS or iPadOS removes local app data. Photos in the system library remain under your control.
 
 ## System services and feedback
 
