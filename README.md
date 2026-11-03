@@ -21,9 +21,9 @@
 
 </details>
 
-**当前状态 / Availability:** 本公开仓库提供项目介绍和隐私政策；App 源码保存在私有的 `picora-code` 仓库，尚未提供 App Store 或 TestFlight 下载链接。当前本地开发版本号为 1.1，最低部署版本为 iOS / iPadOS 26.0，目标设备为 iPhone 和 iPad。The app source is private; no public App Store or TestFlight link is listed here.
+**当前状态 / Availability:** 本公开仓库提供项目介绍和隐私政策；App 源码保存在私有的 `picora-code` 仓库，尚未提供 App Store 或 TestFlight 下载链接。当前开发版本号为 1.1，最低部署版本为 iOS / iPadOS 26.0，目标设备为 iPhone 和 iPad。The app source is private; no public App Store or TestFlight link is listed here.
 
-> 更新：2026-11-03。以下介绍对应当前本地开发实现；部分功能代码仍待同步至私有仓库，不代表已公开发布。This overview describes the current local development build; some feature code is pending synchronization to the private repository.
+> 更新：2026-11-03。功能代码和对应测试已同步至私有源码仓库；公开仓库提供项目介绍和隐私政策。The current feature source and tests are synchronized to the private repository. No public app release is implied.
 
 <a id="中文"></a>
 ## 中文
