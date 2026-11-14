@@ -36,7 +36,7 @@ Picora 只访问您授权的照片。您可以仅允许访问选定照片，并�
 
 提供者及隐私联系人：Jinjia Zheng
 
-联系邮箱：[mars121377@gmail.com](mailto:mars121377@gmail.com)
+联系邮箱：[marszheng@icloud.com](mailto:marszheng@icloud.com)
 
 您可通过邮箱提出隐私问题，或申请查阅、更正、删除您提交给我们的信息。我们会在适用法律要求的期限内处理。
 

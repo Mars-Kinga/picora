@@ -10,7 +10,7 @@ Picora is a local-first photo and video review app for iPhone and iPad. Please s
 - [简体中文隐私政策](privacy/PRIVACY_POLICY.zh-CN.html)
 
 **Publisher:** Jinjia Zheng<br>
-**Privacy contact:** [mars121377@gmail.com](mailto:mars121377@gmail.com)
+**Privacy contact:** [marszheng@icloud.com](mailto:marszheng@icloud.com)
 
 ---
 

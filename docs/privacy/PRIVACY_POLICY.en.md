@@ -36,7 +36,7 @@ If our information-processing practices change, we will update this policy and e
 
 Provider and privacy contact: Jinjia Zheng
 
-Contact email: [mars121377@gmail.com](mailto:mars121377@gmail.com)
+Contact email: [marszheng@icloud.com](mailto:marszheng@icloud.com)
 
 You can email us with privacy questions or requests to access, correct, or delete information you have submitted to us. We will respond within the time required by applicable law.
 
